@@ -15,9 +15,11 @@ Der ehrenamtliche Ortsbürgermeister verrichtet seit Jahren seine Diensgeschäft
 Unter einem der Fenster wurde ein Container platziert. Die Helfer öffnen das Fenster, die Entrümpelung beginnt. Die Helfer arbeiten sich von Zimmer zu Zimmer, der Container füllt sich.
 
 
-In einem Hinterzimmer will sich einer der dick eingestuabten Einrichtungsgegenstände einfach nicht vom Fleck bewegen. Ein Metallkasten mit Schaltern und Reglern. Dieser Kasten weckte sofort mein Interesse.
+In einem Hinterzimmer will sich einer der dick eingestuabten Einrichtungsgegenstände einfach nicht vom Fleck bewegen. Ein Metallkasten mit Schaltern und Reglern. Dieser Kasten weckte sofort mein Interesse. Auf der Front leuchtet in vergilbten Buchstaben der Schriftzug "Funkwerk Kölleda".
 
-Auf der Front leuchtet in vergilbten Buchstaben der Schriftzug "Funkwerk Kölleda". Ist das eine dieser Dorffunkanlagen aus tiefen DDR Zeiten? Ja, offensichtlich. Dieser Metallkasten darf nicht den Weg in den Container gehen, das war mir klar. Schnell waren 4 Helfer überzeugt. Der sehr schwere Kasten wurde unter enormen Anstrengungen über die enge Treppe nach unten gewuchtet, auf einen Anhänger verladen und zunächst auf meinen Hof transportiert.
+![Funkwerk Kölleda](/images/funkwerkkoelleda.jpg)
+
+Ist das eine dieser Dorffunkanlagen aus tiefen DDR Zeiten? Ja, offensichtlich. Dieser Metallkasten darf nicht den Weg in den Container gehen, das war mir klar. Schnell waren 4 Helfer überzeugt. Der sehr schwere Kasten wurde unter enormen Anstrengungen über die enge Treppe nach unten gewuchtet, auf einen Anhänger verladen und zunächst auf meinen Hof transportiert.
 
 ## Die Dorffunkanlage
 Da stand das Ding nun auf meinem Hof. Vor der Entsorgung war die Anlage gerettet, aber funktioniert sie noch?
