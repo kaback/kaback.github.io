@@ -18,9 +18,22 @@ Einer der Helfer brachte aus seinen Beständen noch einen originalen Druckkammer
 
 Der Winter 2015/16 war kurz, die Dorffunkanlage hielt unter einer luftigen Abdeckung Winterschlaf. Auf den Winterschlaf folgte 2016 ein langer Sommerschlaf, und erst im Winter 2016/17 habe ich die dann endlich genauer unter die Lupe genommen. Im Dorf wird eine Heimatstube eröffnet, da soll die Dorffunkanlage mit rein, möglichst funktionstüchtig.
 
-Die Anlage besteht aus einem Rack mit einer Art Backplane sowie aus mehreren Einschüben. Die vorliegende Anlage hat 5 Einschübe, 2 Verstärker, einen Einschub mit Bedienelementen, einen Einschub mit einer Stromverteilung und weitere Einschub mit einem Schallplattenspieler.
+Die Anlage besteht aus einem Rack mit einer Art Backplane sowie aus mehreren Einschüben. 
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| ![Dorffunkanlage Rückansicht](/images/rack_rueckansicht.jpg)     | ![Dorffunkanlage Rückansicht](/images/verdrahtung.jpg) | $1600 |
+
+![Dorffunkanlage Rückansicht](/images/rack_rueckansicht.jpg)
+
+Die vorliegende Anlage hat 5 Einschübe, 2 Verstärker, einen Einschub mit Bedienelementen, einen Einschub mit einer Stromverteilung und weitere Einschub mit einem Schallplattenspieler.
 
 Alle Einschübe ließen sich leicht durch lösen der Rackschrauben aus dem Rack herausziehen und so ganz bequem mit Pinsel und Staubsauger reinigen. Angefangen habe ich mit den beiden Verstärkern.
 
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
 
