@@ -1,7 +1,7 @@
 ---
 published: false
 ---
-## Dorffunkanalge aus dem Funkwerk Kölleda
+# Dorffunkanalge aus dem Funkwerk Kölleda
 Vor zwei Jahren (2015) wurde in unserem Dorf das ehemalaige "Rat der Gemeinde" Gebäude entrümpelt. Im Obergeschoß dieses Gebäudes hatte kurz zuvor der Ortsbürgermeister seine Büroräume zu Gunsten von Homeoffice aufgegeben.
 
 Das Gebäude war äußerlich auf dem Stand von 1989, also mindestens 25 Jahre ohne Veränderung. Innen war es nicht sehr viel anders. Oder doch, da hing "schon" ein [Post-Rolf](http://www.faz.net/aktuell/wirtschaft/netzwirtschaft/post-werbefigur-rolf-sein-codename-war-handy-12241524.html). Post-Rolf war 1993 das Maskottchen der Umstellung von vier- auf fünfstellige Postleitzahlen. Das Poster hängt also schon mindestens 22 Jahre da.
@@ -18,6 +18,8 @@ Einer der Helfer brachte aus seinen Beständen noch einen originalen Druckkammer
 
 Der Winter 2015/16 war kurz, die Dorffunkanlage hielt unter einer luftigen Abdeckung Winterschlaf. Auf den Winterschlaf folgte 2016 ein langer Sommerschlaf, und erst im Winter 2016/17 habe ich die dann endlich genauer unter die Lupe genommen. Im Dorf wird eine Heimatstube eröffnet, da soll die Dorffunkanlage mit rein, möglichst funktionstüchtig.
 
+## Standard-Unterzentrale
+
 Die Anlage besteht aus einem Rack mit mehreren Einschüben. Die Einschübe haben auf der Rückseite Stiftleisten, das Rack hat Buchsenleisten. Im eingeschobenen Zustand hat so jeder Einschub Kontakt zum Rack. Die Verdrahtung der "Backplane" geschah offensichtlich in Handarbeit. Der Kabelbaum ist sauber mit Zwirn fixiert. 
 
 |       |        |
@@ -25,16 +27,16 @@ Die Anlage besteht aus einem Rack mit mehreren Einschüben. Die Einschübe haben
 | ![Dorffunkanlage Rückansicht](/images/rack_rueckansicht.jpg)     | ![Dorffunkanlage Rückansicht](/images/verdrahtung.jpg) |
 
 Die vorliegende Anlage hat 5 Einschübe:
-- 2 Verstärker 
+- 2 Leistungsverstärker V150-3 
 - einen Einschub mit Bedienelementen 
 - einen Einschub mit einer Stromverteilung
 - einen Einschub mit einem Schallplattenspieler.
 
 Alle Einschübe ließen sich leicht durch lösen der Rackschrauben aus dem Rack herausziehen und so ganz bequem mit Pinsel und Staubsauger reinigen.
 
-## Verstärker
+## Leistungsverstärker V150-3
 
- Angefangen habe ich mit den beiden Verstärkern.
+Der Verstärker trägt die Bezeichnung V150-3 Gebaut wurden diese Geräte ab 1965 im Funkwerk Kölleda. Das Typenschild trägt den Aufdruck "Made in Germany". Das  [DDR Gütezeichen](https://de.wikipedia.org/wiki/G%C3%BCtezeichen_%28DDR%29 ) weist das Produkt als Güteklasse 1 für gute Qualität (Erzeugnisse, die dem Durchschnitt des Weltmarktes entsprachen) aus.
 
 
 
