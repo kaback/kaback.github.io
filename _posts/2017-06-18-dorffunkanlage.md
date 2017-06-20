@@ -45,6 +45,7 @@ Der Verstärker trägt die Bezeichnung V150-3 Gebaut wurden diese Geräte ab 196
 Der Verstärker liefert eine Ausgangsliestung von 50 Watt an 200 Ohm. Er ist in 100V Technik ausgeführt, das heisst, bei Vollaussteuerung liegt am Lautsprecherausgang eine Spannung von 100V an. Mit der 100V Technik lassen sich leichter große Entfernungen zwischen Verstärker und Lautsprecher überbrücken. Üblich ist die 100V Technik auch heute noch, vor allem in der PA Technik.
 
 Bei näherer Betrachung fallen 7 Röhren und 3 Halbleiterdioden auf.
+
 Röhren:
 - 2x ECC83
 - ECC82
@@ -55,3 +56,5 @@ Dioden:
 - GY110
 - GY114
 - GA103
+
+![V150-3 Innen](/images/v150_innen.jpg) 
