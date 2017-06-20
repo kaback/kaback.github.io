@@ -20,11 +20,13 @@ Der Winter 2015/16 war kurz, die Dorffunkanlage hielt unter einer luftigen Abdec
 
 ## Standard-Unterzentrale
 
-Die Anlage besteht aus einem Rack mit mehreren Einschüben. Die Einschübe haben auf der Rückseite Stiftleisten, das Rack hat Buchsenleisten. Im eingeschobenen Zustand hat so jeder Einschub Kontakt zum Rack. Die Verdrahtung der "Backplane" geschah offensichtlich in Handarbeit. Der Kabelbaum ist sauber mit Zwirn fixiert. 
+Die Anlage, laut Typenschild als "Standard Unterzentrale" bezeichnet, besteht aus einem Rack mit mehreren Einschüben. Die Einschübe haben auf der Rückseite Stiftleisten, das Rack hat Buchsenleisten. Im eingeschobenen Zustand hat so jeder Einschub Kontakt zum Rack. Die Verdrahtung der "Backplane" geschah offensichtlich in Handarbeit. Der Kabelbaum ist sauber mit Zwirn fixiert. 
 
-|       |        |
-| :------------- |-------------:|
-| ![Dorffunkanlage Rückansicht](/images/rack_rueckansicht.jpg)     | ![Dorffunkanlage Rückansicht](/images/verdrahtung.jpg) |
+Unter dem Typenschild findet sich auch das [DDR Gütezeichen](https://de.wikipedia.org/wiki/G%C3%BCtezeichen_%28DDR%29 ).
+
+|       |        | |
+| :------------- | |-------------:|
+| ![Güteklasse 1](/images/gueteklasse.jpg) | ![Dorffunkanlage Rückansicht](/images/rack_rueckansicht.jpg)     | ![Dorffunkanlage Rückansicht](/images/verdrahtung.jpg) |
 
 Die vorliegende Anlage hat 5 Einschübe:
 - 2 Leistungsverstärker V150-3 
@@ -37,6 +39,5 @@ Alle Einschübe ließen sich leicht durch lösen der Rackschrauben aus dem Rack 
 ## Leistungsverstärker V150-3
 
 Der Verstärker trägt die Bezeichnung V150-3 Gebaut wurden diese Geräte ab 1965 im Funkwerk Kölleda. Das Typenschild trägt den Aufdruck "Made in Germany". Das  [DDR Gütezeichen](https://de.wikipedia.org/wiki/G%C3%BCtezeichen_%28DDR%29 ) weist das Produkt als Güteklasse 1 für gute Qualität (Erzeugnisse, die dem Durchschnitt des Weltmarktes entsprachen) aus.
-
 
 
