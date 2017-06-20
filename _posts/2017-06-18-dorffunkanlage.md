@@ -58,3 +58,7 @@ Dioden:
 - GA103
 
 ![V150-3 Innen](/images/v150_innen.jpg) 
+
+Die Unterseite offenbart eine saubere Handarbeit. Leiterplatten sucht man hier vergebens. Die Platinen sind in damals üblicher Technik handbestückt und handverdrahtet.
+
+![V150-3 Unten](/images/v150_unten.jpg) 
