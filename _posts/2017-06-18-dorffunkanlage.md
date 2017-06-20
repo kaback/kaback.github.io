@@ -40,4 +40,18 @@ Alle Einschübe ließen sich leicht durch lösen der Rackschrauben aus dem Rack 
 
 Der Verstärker trägt die Bezeichnung V150-3 Gebaut wurden diese Geräte ab 1965 im Funkwerk Kölleda. Das Typenschild trägt den Aufdruck "Made in Germany". Das  [DDR Gütezeichen](https://de.wikipedia.org/wiki/G%C3%BCtezeichen_%28DDR%29 ) weist das Produkt als Güteklasse 1 für gute Qualität (Erzeugnisse, die dem Durchschnitt des Weltmarktes entsprachen) aus.
 
+![V150-3 Typenschild](/images/v150_typenschild.jpg) 
 
+Der Verstärker liefert eine Ausgangsliestung von 50 Watt an 200 Ohm. Er ist in 100V Technik ausgeführt, das heisst, bei Vollaussteuerung liegt am Lautsprecherausgang eine Spannung von 100V an. Mit der 100V Technik lassen sich leichter große Entfernungen zwischen Verstärker und Lautsprecher überbrücken. Üblich ist die 100V Technik auch heute noch, vor allem in der PA Technik.
+
+Bei näherer Betrachung fallen 7 Röhren und 3 Halbleiterdioden auf.
+Röhren:
+- 2x ECC83
+- ECC82
+- 2x EL34
+- EM84
+
+Dioden:
+- GY110
+- GY114
+- GA103
