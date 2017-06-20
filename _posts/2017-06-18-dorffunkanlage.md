@@ -62,3 +62,9 @@ Dioden:
 Die Unterseite offenbart eine saubere Handarbeit. Leiterplatten sucht man hier vergebens. Die Platinen sind in damals üblicher Technik handbestückt und handverdrahtet.
 
 ![V150-3 Unten](/images/v150_unten.jpg) 
+
+Auf der Vorderseite des V150-3 befinden sich neben drei Reglern für Lautstärke, Höhen und Bässe unter einer abnehmbaren Klappe verborgen noch weitere Bedienelemente. Darunter ist ein ein Element für die Wahl der Eingangsspannung.
+
+![V150-3 Bedienelemente](/images/v150_bedien.jpg)
+
+## Plattenspielereinschub
