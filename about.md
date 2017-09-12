@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Ich bin Elektroingenieur, mag Software und Hochfrequenztechnik, podcaste unter [@speicherfunk](https://twitter.com/speicherfunk), bin Funkamateur seit 1996 und mache hin und wieder Workshops im Erfurter [@bytespeicher_ef](https://www.bytespeicher.org)
+Ich bin Elektroingenieur, mag Software und Hochfrequenztechnik, podcaste unter [@speicherfunk](https://twitter.com/speicherfunk), bin Funkamateur seit 1996 und mache hin und wieder Workshops im Erfurter [@bytespeicher_ef](https://twitter.com/bytespeicher_ef)
 
 ### Bio
 
