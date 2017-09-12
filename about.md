@@ -8,8 +8,7 @@ Ich bin **Elektroingenieur**, mag **Software** und **Hochfrequenztechnik**. Mein
 
 ### Bio
 
-#### 2000-2001 
-Softwareentwickler Perl
+#### *2000-2001* Softwareentwickler Perl
 * *Yahoo! Deutschland GmbH*, München.
 * Templatebasierte Webentwicklung (Perl)
 
