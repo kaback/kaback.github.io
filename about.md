@@ -11,7 +11,7 @@ Ich bin **Elektroingenieur**, mag **Software** und **Hochfrequenztechnik**. Mein
 * PAARI Group, Erfurt, [www.paari.de](http://www.paari.de)
 * Wägetechnik, Werkslogistik, Yard Management
 
-**216-2017**: Dozent Elektrotechnik, Informationstechnik
+**2016-2017**: Dozent Elektrotechnik, Informationstechnik
 * Erfurt Bildungszentrum gGmbh, Erfurt, [www.ebz-verbund.de](http://www.ebz-verbund.de)
 * Elektrotechnik, Messtechnik, Informationstechnik, Datenverarbeitungstechnik
 * Klassenleiter, Seminarleiter
