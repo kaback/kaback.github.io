@@ -15,11 +15,11 @@ Ich bin **Elektroingenieur**, mag **Software** und **Hochfrequenztechnik**. Mein
 * Erfurt Bildungszentrum gGmbh, Erfurt, [www.ebz-verbund.de](http://www.ebz-verbund.de)
 * Elektrotechnik, Messtechnik, Informationstechnik, Datenverarbeitungstechnik
 * Klassenleiter, Seminarleiter
-* Konzeption und Durchführung von Abschlussprüfungen
+* Konzeption und Durchführung von Leistungsfeststellungen und Abschlussprüfungen
 
 **2008-2016**: Ingenieur Mess-/Prüftechnik
 * Kathrein KG, Rosenheim, [www.kathrein.de](http://www.kathrein.de)
-* Hochfrequenzmesstechnik
+* Hochfrequenztechnik
 * DOCSIS, DVB-C, DVB-T, DVB-S
 * Softwareentwicklung in C/C++, VB, Python
 * IT- und Netzwerkadministration
