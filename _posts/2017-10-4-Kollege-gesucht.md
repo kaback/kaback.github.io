@@ -5,6 +5,8 @@ title: Kollegin oder Kollege in Erfurt gesucht!
 
 ## Worum geht es?
 Ich suche für die Abteilung Öffentlichkeitsarbeit meines Arbeitgebers in Erfurt ab sofort eine Kollegin oder einen Kollegen zur Festanstellung.
+
+
 ## Wer ist der Arbeitgeber?
 Das Unternehmen entwickelt und fertigt stark erklärungsbedürftige Produkte auf dem Gebiet des Maschinen- und Anlagenbaus. Eine große Portion Digitalisierung und Industrie 4.0 ist auch dabei.
 ## Woran sollst Du arbeiten?
