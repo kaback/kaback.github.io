@@ -16,7 +16,7 @@ Du brauchst technisches Verständnis, vorzugsweise auf den Gebieten Elektrotechn
 ## Welche Soft Skills brauchst Du?
 Du musst sehr neugierig sein und brauchst eine große Portion Empathie. Du musst über analytische Fähigkeiten und eine große Portion Organisationstalent verfügen. Du solltest auch vor einem großen Publikum frei und sicher reden können.
 ## Sonst noch was?
-Wenn Du darüber hinaus (denkst, dass Du) Interviews führen kannst und weißt, wie man eine (Foto)Kamera bedient, dann kontaktiere mich bitte.
+Wenn Du darüber hinaus (denkst, dass Du) Interviews führen kannst und weißt, wie man eine (Foto)Kamera bedient, dann kontaktiere mich bitte. Ich erkläre Dir, wie Du Dich bewerben kannst.
 
 kaback (ät) gmail.com
 
