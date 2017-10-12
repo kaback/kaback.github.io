@@ -6,6 +6,9 @@ permalink: /about/
 
 Ich bin **Elektroingenieur**, mag **Software** und **Hochfrequenztechnik**.
 ### Bio
+**2005-heute**: Analyst & Founder
+* Institut für Situationsforschung (ISF), Erfurt, [isf.institute](https://isf.institute)
+
 **2017-heute**: Fachreferent
 
 **2016-2017**: Dozent Elektrotechnik, Informationstechnik
