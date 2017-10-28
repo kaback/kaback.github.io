@@ -8,9 +8,9 @@ Ich suche für die Abteilung Öffentlichkeitsarbeit meines Arbeitgebers in Erfur
 
 
 ## Wer ist der Arbeitgeber?
-Das Unternehmen entwickelt und fertigt stark erklärungsbedürftige Produkte auf dem Gebiet des Maschinen- und Anlagenbaus. Eine große Portion Digitalisierung und Industrie 4.0 ist auch dabei.
+Das Unternehmen entwickelt und fertigt Produkte auf dem Gebiet des Maschinen- und Anlagenbaus. Eine große Portion Digitalisierung und Industrie 4.0 ist auch dabei.
 ## Woran sollst Du arbeiten?
-Du betreibst Öffentlichkeitsarbeit für die stark erklärungsbedürftigen Produkte und Dienstleistungen des Unternehmens. Unter anderem bist Du Ansprechpartner für Redakteure von Print- und Onlinemagazinen, kümmerst Dich um die Präsenz in Social Media, dokumentierst Kundenprojekte und unterstützt Kollegen aus anderen Abteilungen mit Recherchen und Fachtexten.
+Du betreibst Öffentlichkeitsarbeit für die Produkte und Dienstleistungen des Unternehmens. Unter anderem bist Du Ansprechpartner für Redakteure von Print- und Onlinemagazinen, kümmerst Dich um die Präsenz in Social Media, dokumentierst Kundenprojekte und unterstützt Kollegen aus anderen Abteilungen mit Recherchen und Fachtexten.
 ## Was solltest Du können?
 Du brauchst technisches Verständnis, vorzugsweise auf den Gebieten Elektrotechnik, Maschinenbau und Informationstechnik. Du solltest sehr gern schreiben und komplizierte Sachverhalte einfach erklären können. Du weißt, wie Content Marketing, Twitter, Facebook und Xing funktionieren. 
 ## Welche Soft Skills brauchst Du?
