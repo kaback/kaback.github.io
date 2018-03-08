@@ -9,7 +9,9 @@ Ich bin **Elektroingenieur**, mag **Software** und **Hochfrequenztechnik**.
 **2005-heute**: Analyst & Founder
 * Institut für Situationsforschung (ISF), Erfurt, [isf.institute](https://isf.institute)
 
-**2017-heute**: Fachreferent
+**2017-heute**: Lehrer Elektrotechnik, Informationstechnik
+* Andreas-Gordon-Schule, Erfurt, [www.ags-erfurt.de](http://www.ags-erfurt.de)
+* Ausbildungsberufte: EBT, EEG, EIT, SE
 
 **2016-2017**: Dozent Elektrotechnik, Informationstechnik
 * Erfurt Bildungszentrum gGmbh, Erfurt, [www.ebz-verbund.de](http://www.ebz-verbund.de)
@@ -17,7 +19,7 @@ Ich bin **Elektroingenieur**, mag **Software** und **Hochfrequenztechnik**.
 * Klassenleiter, Seminarleiter
 * Konzeption und Durchführung von Leistungsfeststellungen und Abschlussprüfungen
 
-**2008-2016**: Ingenieur Mess-/Prüftechnik
+**2008-2016**: Ingenieur Embedded, HF-Mess- und Prüftechnik
 * Kathrein KG, Rosenheim, [www.kathrein.de](http://www.kathrein.de)
 * Hochfrequenztechnik
 * DOCSIS, DVB-C, DVB-T, DVB-S
@@ -38,6 +40,3 @@ Ich bin **Elektroingenieur**, mag **Software** und **Hochfrequenztechnik**.
 * *Yahoo! Deutschland GmbH*, München, [www.yahoo.com](http://www.yahoo.com)
 * Templatebasierte Webentwicklung (Perl)
 
-### Contact me
-* Twitter: @kaback
-* Mail: kabac.k(at)gmail.com
