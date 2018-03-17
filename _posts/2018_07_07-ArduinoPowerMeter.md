@@ -11,4 +11,6 @@ Es existiert auch eine verbesserte Variante der Schaltung unter https://learn.op
 
 Zu beachten ist, dass ein Transformator eine lastabhängige pahsenverschiebung zwischen Primaer- und Sekundaerseite hat. Diese Phasenverschiebung kann man z.B. mit einem Oszi messen, welches auf die Netzspannung synchronisieren kann. Alternativ nimmt man Transformatoren, die von openenergymonitor bereits vermessen wurden.
 
+# PoC mit einem Printtrafo aus der Bastelkiste
+Der Verlauf der Ausgangsspannung eins Printtrafos aus der Bastelkiste, laut Aufschrift primär 230V 50/60 Hz und sekundär 15V, wird mit einem CRO aufgenommen. Die gemessene Spitzenspannnung im Leerlauf liegt bei knapp 26V. Im Line-Triggermodus kann ein Phasenwinkel zwischen den Spannungen auf der Primär- und Sekundärseite von 21.6 Grad abgelesen werden.
 
