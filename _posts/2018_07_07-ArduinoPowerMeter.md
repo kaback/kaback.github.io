@@ -15,7 +15,7 @@ Zu beachten ist, dass ein Transformator eine lastabhängige pahsenverschiebung z
 Der Verlauf der Ausgangsspannung mehrerer Printtrafos aus der Bastelkiste wird mit einem CRO aufgenommen. Im Line-Triggermodus des CRO wird anschliessend der Phasenwinkel der Spannung zwischen der Primär- und der Sekundärseite bestimmt.
 
 | Trafo           | U_sek laut Aufdruck  |U_sek Leerlauf   | Phasenwinkel Leerlauf |
-| --------------- |:--------------------:|:---------------:| ---------------------:|
+| --------------- |:--------------------:|:---------------:|:---------------------:|
 | Marschner 13203 | 15 V                 | 26 V            | 21.6 °                |
 | VEB GBB         | 20 V                 |           | |
 
