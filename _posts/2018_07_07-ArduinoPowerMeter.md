@@ -14,10 +14,10 @@ Zu beachten ist, dass ein Transformator eine lastabhängige pahsenverschiebung z
 # PoC mit einem Printtrafos aus der Bastelkiste
 Der Verlauf der Ausgangsspannung mehrerer Printtrafos aus der Bastelkiste wird mit einem CRO aufgenommen. Im Line-Triggermodus des CRO wird anschliessend der Phasenwinkel der Spannung zwischen der Primär- und der Sekundärseite bestimmt.
 
-| Trafo           | U_sek laut Aufdruck  |U_sek Leerlauf   | Phasenwinkel Leerlauf |
+| Trafo           | U_sek laut Aufdruck  |U_sek Leerlauf [U_ss]  | Phasenwinkel Leerlauf |
 | --------------- |:--------------------:|:---------------:|:---------------------:|
 | Marschner 13203 | 15 V                 | 26 V            | 21.6 °                |
-| VEB GBB         | 20 V                 |           | |
+| VEB GBB         | 20 V                 | 40 V            | 18 °                  |
 
 Dieser recht hohe Phasenwinkel geht gemäß einer Internetrecherche (https://www.mikrocontroller.net/topic/100110#869046) auf die Reihenschaltung des Wicklungswiderstandes mit der Hauptinduktivität zurück, soll für Kleinleistungstrafos typisch sein und mit zunehmender Belastung deutlich zurück gehen. Bei einem bestimmten Lastverhältnis soll es sogar zu einer kompletten Kompensation der Phasenverschiebung kommen.
 
