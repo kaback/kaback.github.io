@@ -16,4 +16,9 @@ Der Verlauf der Ausgangsspannung eins Printtrafos aus der Bastelkiste, laut Aufs
 
 Dieser recht hohe Wert geht gemäß einer Internetrecherche (https://www.mikrocontroller.net/topic/100110#869046) auf die Reihenschaltung des Wicklungswiderstandes mit der Hauptinduktivität zurück, soll für Kleinleistungstrafos typisch sein und mit zunehmender Belastung deutlich zurück gehen. Bei einem bestimmten Lastverhältnis soll es sogar zu einer kompletten Kompensation der Phasenverschiebung kommen.
 
+# PoC des sekundärseitigen Spannungsphasenwinkels eines Printtrafos in Anhängigkeit von der Last
+Der verwendete Printtrafo liefert laut Aufdruck einen Sekundärseitigen Strom von 215 mA bei einer Spannung (Effektivwert) von 15 V. Mit R=U/I ergibt sich für diesen Arbeitspunkt ein ohmscher Widerstand von rund 69.8 Ohm. Die dabei umgesetzte Leistung errechnet sich mit P=U*I zu rund 3.3 Watt
+
+
+
 
