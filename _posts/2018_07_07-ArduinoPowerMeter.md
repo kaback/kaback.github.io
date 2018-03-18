@@ -11,7 +11,7 @@ Es existiert auch eine verbesserte Variante der Schaltung unter https://learn.op
 
 Zu beachten ist, dass ein Transformator eine lastabhängige pahsenverschiebung zwischen Primaer- und Sekundaerseite hat. Diese Phasenverschiebung kann man z.B. mit einem Oszi messen, welches auf die Netzspannung synchronisieren kann. Alternativ nimmt man Transformatoren, die von openenergymonitor bereits vermessen wurden.
 
-# PoC mit einem Printtrafos aus der Bastelkiste
+## PoC mit einem Printtrafos aus der Bastelkiste
 Der Verlauf der Ausgangsspannung mehrerer Printtrafos aus der Bastelkiste wird mit einem CRO aufgenommen. Im Line-Triggermodus des CRO wird anschliessend der Phasenwinkel der Spannung zwischen der Primär- und der Sekundärseite bestimmt.
 
 | Trafo           | U_sek laut Aufdruck  |U_sek Leerlauf [U_ss]  | Phasenwinkel Leerlauf |
@@ -21,7 +21,7 @@ Der Verlauf der Ausgangsspannung mehrerer Printtrafos aus der Bastelkiste wird m
 
 Dieser recht hohe Phasenwinkel geht gemäß einer Internetrecherche (https://www.mikrocontroller.net/topic/100110#869046) auf die Reihenschaltung des Wicklungswiderstandes mit der Hauptinduktivität zurück, soll für Kleinleistungstrafos typisch sein und mit zunehmender Belastung deutlich zurück gehen. Bei einem bestimmten Lastverhältnis soll es sogar zu einer kompletten Kompensation der Phasenverschiebung kommen.
 
-# PoC der Lastabhängigkeit des sekundärseitigen Spannungsphasenwinkels eines Printtrafos
+## PoC der Lastabhängigkeit des sekundärseitigen Spannungsphasenwinkels eines Printtrafos
 Der Marschner Printtrafo liefert laut Aufdruck einen Sekundärseitigen Strom von 215 mA bei einer Spannung (Effektivwert) von 15 V. Mit R=U/I ergibt sich für diesen Arbeitspunkt ein ohmscher Widerstand von rund 69.8 Ohm. Die dabei umgesetzte Leistung errechnet sich mit P=U*I zu rund 3.3 Watt
 
 Für den GBB Kleinleistungstrafo liegen keine Daten vor. Da er mechanisch aber minimal größer als der Marschner Printtrafo ist, kann davon ausgegangen werden, dass dessen Belastbarkeit in der Region des Marschner Trafos liegt.
