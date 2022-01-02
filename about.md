@@ -4,14 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Ich bin **Elektroingenieur**, mag **Software** und **Hochfrequenztechnik**.
 ### Bio
 **2005-heute**: Analyst & Founder
 * Institut für Situationsforschung (ISF), Erfurt, [isf.institute](https://isf.institute)
 
-**2017-heute**: Lehrer Elektrotechnik, Informationstechnik
+**2017-heute**: Lehrer Elektrotechnik, Mathematik
 * Andreas-Gordon-Schule, Erfurt, [www.ags-erfurt.de](http://www.ags-erfurt.de)
-* Ausbildungsberufte: EBT, EEG, EIT, SE
 
 **2016-2017**: Dozent Elektrotechnik, Informationstechnik
 * Erfurt Bildungszentrum gGmbh, Erfurt, [www.ebz-verbund.de](http://www.ebz-verbund.de)
@@ -24,7 +22,6 @@ Ich bin **Elektroingenieur**, mag **Software** und **Hochfrequenztechnik**.
 * Hochfrequenztechnik
 * DOCSIS, DVB-C, DVB-T, DVB-S
 * Softwareentwicklung in C/C++, VB, Python
-* IT- und Netzwerkadministration
 
 **2006-2008**: Wissenschaftlicher Mitarbeiter
 * Fachhochschule Schmalkalden, [www.hs-schmalkalden.de](https://www.hs-schmalkalden.de)
