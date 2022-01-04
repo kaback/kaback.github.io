@@ -14,14 +14,12 @@ permalink: /about/
 **2016-2017**: Dozent Elektrotechnik, Informationstechnik
 * Erfurt Bildungszentrum gGmbh, Erfurt, [www.ebz-verbund.de](http://www.ebz-verbund.de)
 * Elektrotechnik, Messtechnik, Informationstechnik, Datenverarbeitungstechnik
-* Klassenleiter, Seminarleiter
-* Konzeption und Durchführung von Leistungsfeststellungen und Abschlussprüfungen
 
 **2008-2016**: Ingenieur Embedded, HF-Mess- und Prüftechnik
 * Kathrein KG, Rosenheim, [www.kathrein.de](http://www.kathrein.de)
 * Hochfrequenztechnik
 * DOCSIS, DVB-C, DVB-T, DVB-S
-* Softwareentwicklung in C/C++, VB, Python
+* Softwareentwicklung
 
 **2006-2008**: Wissenschaftlicher Mitarbeiter
 * Fachhochschule Schmalkalden, [www.hs-schmalkalden.de](https://www.hs-schmalkalden.de)
