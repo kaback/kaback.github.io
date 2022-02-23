@@ -16,7 +16,7 @@ permalink: /about/
 * Elektrotechnik, Messtechnik, Informationstechnik, Datenverarbeitungstechnik
 
 **2008-2016**: Ingenieur Embedded, HF-Mess- und Prüftechnik
-* Kathrein KG, Rosenheim, [www.kathrein.de](http://www.kathrein.de)
+* Kathrein KG, Rosenheim, [www.kathrein-ds.com](https://www.kathrein-ds.com/)
 * Hochfrequenztechnik
 * DOCSIS, DVB-C, DVB-T, DVB-S
 * Softwareentwicklung
