@@ -6,7 +6,7 @@ permalink: /about/
 
 ### Bio
 **2005-heute**: Analyst & Founder
-* Institut für Situationsforschung (ISF), Erfurt, [isf.institute](https://isf.institute)
+* Institut für Situationsforschung (ISF), Bern, Schweiz, [isf.institute](https://isf.institute)
 
 **2017-heute**: Lehrer Elektrotechnik, Mathematik
 * Andreas-Gordon-Schule, Erfurt, [www.ags-erfurt.de](http://www.ags-erfurt.de)
