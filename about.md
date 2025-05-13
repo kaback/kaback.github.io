@@ -5,6 +5,9 @@ permalink: /about/
 ---
 
 ### Bio
+**2024-heute** Mühlenbesitzer
+* Schnepfenmühle, Mühle Schnepfenthal, Waltershausen, [www.muehle-schnepfenthal.de](https://www-muehle-schnepfenthal.de)
+
 **2005-heute**: Analyst & Founder
 * Institut für Situationsforschung (ISF), Bern, Schweiz, [isf.institute](https://isf.institute)
 
